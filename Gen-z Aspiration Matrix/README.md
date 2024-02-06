@@ -8,6 +8,7 @@ We conducted primary research to gather data and enhance customer experience for
 **SQL Insights: Addressing 22 Business Questions**
 
 Male respondents from India: 1733
+
 Female respondents from India: 1181
 Gen-Z influenced by parents in India: 449
 Female Gen-Z influenced by parents in India: 188
